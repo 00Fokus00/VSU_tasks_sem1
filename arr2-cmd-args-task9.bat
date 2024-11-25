@@ -33,4 +33,4 @@ set CP=%CP%;%M2_HOME%\repository\com\jgoodies\forms\1.1-preview\forms-1.1-previe
 set CP=%CP%;%M2_HOME%\repository\jdom\jdom\1.0\jdom-1.0.jar
 set CP=%CP%;C:\Users\iafil\OneDrive\Документы\course1\Programming\Test\lib\commons-cli-1.6.0.jar
 
-%JAVA% -classpath "%CP%" ru.vsu.cs.course1.task9.Program %*
+%JAVA% -classpath "%CP%" ru.vsu.cs.course1.Task9_20.Program %*
